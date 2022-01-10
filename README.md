@@ -8,3 +8,8 @@ This is test version.
 *最大節約法
 
 *最尤法
+
+---bash
+R repository
+ssh !
+---
