@@ -5,11 +5,11 @@ This is test version.
 
 * 最近接法
 
-*最大節約法
+* 最大節約法
 
-*最尤法
+* 最尤法
 
----bash
+```bash
 R repository
 ssh !
----
+```
