@@ -23,6 +23,8 @@ This is test version.
 
   多数の確率モデルがある。
   
+  モデルを変えると結果が変わる可能性がある。
+  
 
 ```bash
 R repository
