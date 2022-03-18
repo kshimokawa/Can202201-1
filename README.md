@@ -59,6 +59,8 @@ ssh !
 * MEGA のダウンロード
   https://www.megasoftware.net/
 
+* VMware Player のダウンロード
+https://www.vmware.com/jp/products/workstation-player/workstation-player-evaluation.html
 
 * TreeOmics のダウンロード
   https://github.com/reiterlab/treeomics
