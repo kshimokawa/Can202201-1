@@ -57,6 +57,6 @@ ssh !
 
 # ソフトウエアのインストール
 * MEGA のダウンロード
-* https://www.megasoftware.net/
-![image](https://user-images.githubusercontent.com/97430580/158972436-c2b09333-e49b-4c59-aeda-af645a41d813.png)
+  https://www.megasoftware.net/
+
 
