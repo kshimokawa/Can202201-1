@@ -55,8 +55,15 @@ ssh !
 * 推定法
 
 
-# ソフトウエアのインストール
+# プログラムのインストール
 * MEGA のダウンロード
   https://www.megasoftware.net/
+
+
+* TreeOmics のダウンロード
+  https://github.com/reiterlab/treeomics
+
+
+
 
 
