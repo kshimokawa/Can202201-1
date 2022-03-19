@@ -1,6 +1,9 @@
 # がん研究会PBL 系統樹作成入門
 This is test version.
 
+TreeOmics の解析まで行いたい人は、最初にここから Alma Linux をダウンロードしておいてください（時間がかかるので 10Gbyte）。
+http://ftp.iij.ad.jp/pub/linux/almalinux/8.5/isos/x86_64/AlmaLinux-8.5-x86_64-dvd.iso
+
 # 系統樹推定：原理と特徴
 
 ## 距離に基づく方法（距離行列法）
