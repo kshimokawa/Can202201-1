@@ -62,6 +62,9 @@ ssh !
 * VMware Player のダウンロード
   https://www.vmware.com/jp/products/workstation-player/workstation-player-evaluation.html
 
+* Alma Linux のダウンロード
+  https://almalinux.org/
+
 * TreeOmics のダウンロード
   https://github.com/reiterlab/treeomics
 
